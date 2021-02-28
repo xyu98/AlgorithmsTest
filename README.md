@@ -1,2 +1,3 @@
 # AlgorithmsTest
-Algorithms test.
+Algorithms, 4th Edition
+Robert Sedgewick, Kevin Wayne
