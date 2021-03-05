@@ -45,7 +45,8 @@ class BinarySearch1 {
         }
         return mid;
     }
-
+    
+    // 递归二分查找
     public int BinarySearchRecursive(int low, int high, int mid) {
         if (ary[mid] < target) {
             low = mid + 1;
